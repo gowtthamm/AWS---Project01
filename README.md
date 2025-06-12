@@ -4,21 +4,30 @@ PROCEDURE 👾
 
 • Launching EC2 instance → (Amazon Linux)
 
+
 • Connecting  Putty Through IP address 
+
 
 • Apache Installation to support Webpage 
 
+
 • File Permissions → (var/www/html)
+
 
 • WinSCP for assets transfer(Windows to Linux )
 
+
 • Connecting winSCP through IP address 
+
 
 • Purchasing Domain from → (Hostinger)
 
+
 • Attaching Private domain Using (Route 53)
 
+
 • Creating Hosted zone and Changing Name Server 
+
 
 
 
