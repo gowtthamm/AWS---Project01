@@ -1,6 +1,6 @@
 🚀 This Project is about Deploying Static Webpage using AWS and Utilizing Cloud features.
 
-PROCEDURE 👾
+OVERVIEW  👾
 
 • Launching EC2 instance → (Amazon Linux)
 
